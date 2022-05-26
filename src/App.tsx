@@ -1,7 +1,9 @@
+import UpgradesBar from "./components/upgradesBar/UpgradesBar";
+
 const App = () => {
   return (
     <div>
-      Hello World!
+      <UpgradesBar />
     </div>
   );
 }
